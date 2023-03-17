@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Nour, a passionate fullstack developer based in France</h2>
+<h2 align="left">Hi 👋, I'm Nour, a passionate fullstack developer</h2>
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@krichenenour2)
 
